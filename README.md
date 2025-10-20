@@ -108,12 +108,6 @@ python evaluate.py
 * Convert to **TensorFlow Lite** for mobile use
 * Integrate **Grad-CAM** for model explainability
 
----
-
-## 👨‍💻 Author
-
-* **Faizan Khan**
-* [LinkedIn](https://linkedin.com/in/faizan-khan-391bab229) | [GitHub](https://github.com/FaizanKhan1018)
 
 ---
 
